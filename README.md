@@ -1,5 +1,6 @@
 # vite_shopify
 Clear builder Vite with Down theme
+[Full doc Here](https://shopify-vite.barrelny.com/guide/#working-with-stylesheets)
 
 # vite-plugin-shopify
 
